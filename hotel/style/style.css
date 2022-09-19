@@ -52,3 +52,19 @@ a:hover{
     width: 100%;
     
 }
+
+#parceiros{
+    text-align: center;
+    padding: 30px;
+    font-family: Mont-Heavy;
+}
+
+.logo{
+    word-wrap: break-word;
+    max-width: 300px;
+    max-height: 176px;
+}
+
+.txt-logo{
+    float: left;
+}
